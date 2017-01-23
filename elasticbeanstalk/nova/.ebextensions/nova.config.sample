@@ -20,7 +20,7 @@ option_settings:
   "aws:autoscaling:asg":
     Availability Zones: "Any 2"
     Cooldown: "360"
-    MinSize: "AWS_ASG_MIN_VALUE_NOVA"
-    MaxSize: "AWS_ASG_MAX_VALUE_NOVA"
+    MinSize: "AWS_ASG_MIN_VALUE"
+    MaxSize: "AWS_ASG_MAX_VALUE"
   "aws:elasticbeanstalk:hostmanager":
     LogPublicationControl: "true"
