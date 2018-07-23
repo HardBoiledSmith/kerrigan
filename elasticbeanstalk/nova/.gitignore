@@ -1,5 +1,7 @@
 /.ebextensions/nova.config
 /.elasticbeanstalk/config.yml
 /configuration/etc/nova/settings_local.py
+/configuration/etc/sachiel/my_primary.cnf
+/configuration/etc/sachiel/my_replica.cnf
 /configuration/phase
 /nova/*
